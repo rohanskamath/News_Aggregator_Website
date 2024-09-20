@@ -12,21 +12,14 @@ Welcome to the News Aggregator Website, a frontend project built using **React.j
 
 ## Features
 
-### 1. Article Search and Filtering
+### 1. Article Search, Filtering and Personalized News Feed
 - Users can search for articles by keyword.
 - Articles can be filtered by:
   - Date
   - Category
-  - Source
+  - Sources
 
-### 2. Personalized News Feed
-- Users can select their preferred:
-  - News sources
-  - Categories
-  - Authors
-- The personalized settings will allow the user to see articles tailored to their preferences.
-
-### 3. Mobile-Responsive Design
+### 2. Mobile-Responsive Design
 - The website is fully responsive and optimized for mobile devices, ensuring smooth navigation and readability across different screen sizes.
 
 ## APIs Used
