@@ -5,10 +5,8 @@ Welcome to the News Aggregator Website, a frontend project built using **React.j
 ## Technologies Used
 
 - **React.js** - For building the user interface.
-- **React Router** - For managing navigation and routing.
-- **Axios** - For making HTTP requests to the news APIs.
 - **Docker** - For containerizing the application.
-- **CSS** - For styling and responsive design.
+- **Bootstrap CSS** - For styling and responsive design.
 
 ## Features
 
